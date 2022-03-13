@@ -53,7 +53,7 @@ header > p{
     color: white;
     box-shadow:inset 6px 6px 13px  rgba(0, 0, 0, 0.548);
     background-repeat: no-repeat;
-    background-position: right center;
+    background-position: center center;
     background-size: cover;
     background-attachment: fixed;
 }
